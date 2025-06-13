@@ -101,10 +101,6 @@ Note that the export function does not export the title or the description, just
 
 ## Manifest
 
-`https://raw.githubusercontent.com/BlitzKraig/fvtt-EasyTable/master/module.json`
-
-## Feedback
-
-For bugs/feedback, create an issue on GitHub, or contact me on Discord at Blitz#6797
+`https://github.com/sasquach45932/easytable/releases/latest/download/module.json`
 
 ## [Release Notes](./CHANGELOG.md)
