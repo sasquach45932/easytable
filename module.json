@@ -1,0 +1,44 @@
+{
+   "id":"easytable",
+   "title":"EasyTable by Blitz",
+   "description":"Creates simple text-based rollable tables from CSV (or any-SV) data",
+   "version":"#{VERSION}#",
+   "authors":[
+      {
+         "name":"sasquach45932",
+         "url":"https://github.com/sasquach45932/"
+      },
+      {
+         "name":"Blitzkraig",
+         "url":"https://ko-fi.com/blitzkraig",
+         "email":"craig@blitzkraig.com",
+         "discord":"Blitz#6797"
+      }
+   ],
+   "scripts":[
+      "scripts/easytable.js"
+   ],
+   "styles":[
+      "styles/styles.css"
+   ],
+   "packs":[
+      
+   ],
+   "languages":[
+      {
+         "lang":"en",
+         "name":"English",
+         "path":"lang/en.json"
+      }
+   ],
+   "compatibility":{
+      "minimum":13,
+      "verified":13,
+      "maximum":13
+   },
+   "url":"#{URL}#",
+   "manifest":"#{MANIFEST}#",
+   "download":"#{DOWNLOAD}#",
+   "license":"LICENSE",
+   "readme":"README.md"
+}
